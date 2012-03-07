@@ -3,6 +3,7 @@
 
 #include <stdint.h>
 
+//
 // Graphics primitives
 //
 // Currently, the routines assume a bitmap format that is in accordance
